@@ -1,0 +1,4 @@
+{
+  "MongoDB_URI": "MONGODB_URI",
+  "JWT_Secret": "JWT_SECRET"
+}
