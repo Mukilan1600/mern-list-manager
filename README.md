@@ -1,10 +1,10 @@
 # List Manager
 
-A simple authenticated list manager built using MongoDB, Express, React js and Node js (MERN Stack).
+> A simple authenticated list manager built using MongoDB, Express, React js and Node js (MERN Stack).
 
 ### Important
 
-Add the MongoDB URL and the JWT SECRET to the config file
+Add the MongoDB URL and the JWT SECRET to the config file.
 You do not have to build your react client, Heroku post build scripts takes care of it.
 
 ### Installing
